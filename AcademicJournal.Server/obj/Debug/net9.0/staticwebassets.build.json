@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "u8R55oHdW4Z+JT9xJ/IpiDbkK6zALDG0QrCv0UDKUWk=",
+  "Source": "AcademicJournal.Server",
+  "BasePath": "_content/AcademicJournal.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

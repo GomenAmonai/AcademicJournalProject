@@ -1,0 +1,6 @@
+@AcademicJournal.Server_HostAddress = http://localhost:5249
+
+GET {{AcademicJournal.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
