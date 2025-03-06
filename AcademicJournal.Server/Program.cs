@@ -27,6 +27,7 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IPasswordHasher, PasswordHasher>();
 builder.Services.AddScoped<IJwtGenerator, JwtGenerator>();
 builder.Services.AddScoped<IHomeworkService, HomeworkService>();
+builder.Services.AddScoped<IAttendanceService, AttendanceService>();
 // Добавьте эту строку в существующую конфигурацию сервисов
 builder.Services.AddScoped<IGradeService, GradeService>();
 
