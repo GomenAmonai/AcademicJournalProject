@@ -195,19 +195,18 @@ namespace AcademicJournal.Data.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<DateTime>("CreationDate")
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<DateTime>("Deadline")
                         .HasColumnType("timestamp with time zone");
 
                     b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<DateTime>("DueDate")
-                        .HasColumnType("timestamp with time zone");
-
-                    b.Property<string>("FileAttachmentPath")
-                        .IsRequired()
-                        .HasColumnType("text");
+                    b.Property<int?>("FileId")
+                        .HasColumnType("integer");
 
                     b.Property<int>("GroupId")
                         .HasColumnType("integer");
@@ -223,9 +222,12 @@ namespace AcademicJournal.Data.Migrations
 
                     b.Property<string>("Title")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasMaxLength(100)
+                        .HasColumnType("character varying(100)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("FileId");
 
                     b.HasIndex("GroupId");
 
@@ -658,6 +660,10 @@ namespace AcademicJournal.Data.Migrations
 
             modelBuilder.Entity("AcademicJournal.Data.Models.Homework", b =>
                 {
+                    b.HasOne("AcademicJournal.Data.Models.FileEntity", "File")
+                        .WithMany()
+                        .HasForeignKey("FileId");
+
                     b.HasOne("AcademicJournal.Data.Models.Group", null)
                         .WithMany()
                         .HasForeignKey("GroupId")
@@ -681,6 +687,8 @@ namespace AcademicJournal.Data.Migrations
                         .HasForeignKey("SubjectId1")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("File");
 
                     b.Navigation("Group");
 
@@ -706,7 +714,7 @@ namespace AcademicJournal.Data.Migrations
                         .IsRequired();
 
                     b.HasOne("AcademicJournal.Data.Models.Homework", "Homework")
-                        .WithMany("Submissions")
+                        .WithMany()
                         .HasForeignKey("HomeworkId1")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -866,11 +874,6 @@ namespace AcademicJournal.Data.Migrations
             modelBuilder.Entity("AcademicJournal.Data.Models.Group", b =>
                 {
                     b.Navigation("Students");
-                });
-
-            modelBuilder.Entity("AcademicJournal.Data.Models.Homework", b =>
-                {
-                    b.Navigation("Submissions");
                 });
 
             modelBuilder.Entity("AcademicJournal.Data.Models.Lesson", b =>

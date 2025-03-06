@@ -1,0 +1,15 @@
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Server.Tests/bin/Debug/net9.0/AcademicJournal.Server.Tests
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Server.Tests/bin/Debug/net9.0/AcademicJournal.Server.Tests.deps.json
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Server.Tests/bin/Debug/net9.0/AcademicJournal.Server.Tests.runtimeconfig.json
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Server.Tests/bin/Debug/net9.0/AcademicJournal.Server.Tests.dll
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Server.Tests/bin/Debug/net9.0/AcademicJournal.Server.Tests.pdb
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Server.Tests/obj/Debug/net9.0/AcademicJournal.Server.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Server.Tests/obj/Debug/net9.0/AcademicJournal.Server.Tests.AssemblyInfoInputs.cache
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Server.Tests/obj/Debug/net9.0/AcademicJournal.Server.Tests.AssemblyInfo.cs
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Server.Tests/obj/Debug/net9.0/AcademicJournal.Server.Tests.csproj.CoreCompileInputs.cache
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Server.Tests/obj/Debug/net9.0/AcademicJournal.Server.Tests.sourcelink.json
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Server.Tests/obj/Debug/net9.0/AcademicJournal.Server.Tests.dll
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Server.Tests/obj/Debug/net9.0/refint/AcademicJournal.Server.Tests.dll
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Server.Tests/obj/Debug/net9.0/AcademicJournal.Server.Tests.pdb
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Server.Tests/obj/Debug/net9.0/AcademicJournal.Server.Tests.genruntimeconfig.cache
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Server.Tests/obj/Debug/net9.0/ref/AcademicJournal.Server.Tests.dll
