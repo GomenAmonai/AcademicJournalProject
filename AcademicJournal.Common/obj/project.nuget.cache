@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "DvWdenPqCsI=",
+  "dgSpecHash": "nyyhd8RqfXA=",
   "success": true,
   "projectFilePath": "/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Common/AcademicJournal.Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/daniillednik/.nuget/packages/microsoft.openapi/1.6.22/microsoft.openapi.1.6.22.nupkg.sha512",
+    "/Users/daniillednik/.nuget/packages/swashbuckle.aspnetcore.swagger/7.3.1/swashbuckle.aspnetcore.swagger.7.3.1.nupkg.sha512",
+    "/Users/daniillednik/.nuget/packages/swashbuckle.aspnetcore.swaggergen/7.3.1/swashbuckle.aspnetcore.swaggergen.7.3.1.nupkg.sha512",
+    "/Users/daniillednik/.nuget/packages/swashbuckle.aspnetcore.swaggerui/7.3.1/swashbuckle.aspnetcore.swaggerui.7.3.1.nupkg.sha512"
+  ],
   "logs": []
 }

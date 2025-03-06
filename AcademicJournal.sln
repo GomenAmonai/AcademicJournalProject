@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademicJournal.Data", "Aca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademicJournal.Common", "AcademicJournal.Common\AcademicJournal.Common.csproj", "{77137807-F9B0-4A00-854C-F909B1E55674}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademicJournal.Server.Tests", "AcademicJournal.Server.Tests\AcademicJournal.Server.Tests.csproj", "{9231363B-A315-472B-AAAE-2054FF398654}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{77137807-F9B0-4A00-854C-F909B1E55674}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77137807-F9B0-4A00-854C-F909B1E55674}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77137807-F9B0-4A00-854C-F909B1E55674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9231363B-A315-472B-AAAE-2054FF398654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9231363B-A315-472B-AAAE-2054FF398654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9231363B-A315-472B-AAAE-2054FF398654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9231363B-A315-472B-AAAE-2054FF398654}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Data/obj/Debug/net9.0/AcademicJournal.Data.csproj.AssemblyReference.cache
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Data/obj/Debug/net9.0/AcademicJournal.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Data/obj/Debug/net9.0/AcademicJournal.Data.AssemblyInfoInputs.cache
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Data/obj/Debug/net9.0/AcademicJournal.Data.AssemblyInfo.cs
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Data/obj/Debug/net9.0/AcademicJournal.Data.csproj.CoreCompileInputs.cache
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Data/obj/Debug/net9.0/AcademicJournal.Data.sourcelink.json
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Data/bin/Debug/net9.0/AcademicJournal.Data.deps.json
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Data/bin/Debug/net9.0/AcademicJournal.Data.runtimeconfig.json
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Data/bin/Debug/net9.0/AcademicJournal.Data.dll
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Data/bin/Debug/net9.0/AcademicJournal.Data.pdb
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Data/obj/Debug/net9.0/AcademicJournal.Data.dll
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Data/obj/Debug/net9.0/refint/AcademicJournal.Data.dll
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Data/obj/Debug/net9.0/AcademicJournal.Data.pdb
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Data/obj/Debug/net9.0/AcademicJournal.Data.genruntimeconfig.cache
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Data/obj/Debug/net9.0/ref/AcademicJournal.Data.dll

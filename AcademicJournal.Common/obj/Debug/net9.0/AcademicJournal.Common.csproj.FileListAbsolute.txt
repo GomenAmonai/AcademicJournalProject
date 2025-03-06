@@ -1,0 +1,13 @@
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Common/bin/Debug/net9.0/AcademicJournal.Common.deps.json
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Common/bin/Debug/net9.0/AcademicJournal.Common.dll
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Common/bin/Debug/net9.0/AcademicJournal.Common.pdb
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Common/obj/Debug/net9.0/AcademicJournal.Common.csproj.AssemblyReference.cache
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Common/obj/Debug/net9.0/AcademicJournal.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Common/obj/Debug/net9.0/AcademicJournal.Common.AssemblyInfoInputs.cache
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Common/obj/Debug/net9.0/AcademicJournal.Common.AssemblyInfo.cs
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Common/obj/Debug/net9.0/AcademicJournal.Common.csproj.CoreCompileInputs.cache
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Common/obj/Debug/net9.0/AcademicJournal.Common.sourcelink.json
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Common/obj/Debug/net9.0/AcademicJournal.Common.dll
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Common/obj/Debug/net9.0/refint/AcademicJournal.Common.dll
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Common/obj/Debug/net9.0/AcademicJournal.Common.pdb
+/Users/daniillednik/Documents/Develop/Projects/AcademicJournal/AcademicJournal.Common/obj/Debug/net9.0/ref/AcademicJournal.Common.dll
